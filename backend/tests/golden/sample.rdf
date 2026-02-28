@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:bib="http://purl.org/net/biblio#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:z="http://www.zotero.org/namespaces/export#" xmlns:foaf="http://xmlns.com/foaf/0.1/">
+  <bib:Article rdf:about="#k">
+    <dc:title>T</dc:title>
+    <dc:date></dc:date>
+    <dcterms:dateSubmitted>2024-01-01</dcterms:dateSubmitted>
+  </bib:Article>
+</RDF>
